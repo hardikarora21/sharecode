@@ -1,0 +1,36 @@
+
+    var URL = "https://www.byfarmerz.com/newadmin/api/";
+
+    exports.app_version = URL + "app-version.php";
+    exports.login = URL + "login.php";
+    exports.signup = URL + "signup.php";
+    exports.contact = URL + "contact.php";
+    exports.slider = URL + "slider.php";
+    exports.category = URL + "category.php";
+    exports.sub_category = URL + "sub-category.php";
+    exports.terms = URL + "terms.php";
+    exports.about = URL + "about.php";
+    exports.faqs = URL + "faqs.php";
+    exports.notification = URL + "notification.php";
+    exports.profile = URL + "profile.php";
+    exports.profile_update = URL + "profile-update.php";
+    exports.refer_earn = URL + "refer-earn.php";
+    exports.products = URL + "products.php";
+    exports.todays_deal = URL + "todays-deal.php";
+    exports.forget_password = URL + "forgot-password.php";
+    exports.otp = URL + "otp.php";
+    exports.offers = URL + "offers.php";
+    exports.add_order = URL + "add-order.php";
+    exports.wallet = URL + "wallet.php";
+    exports.orders = URL + "orders.php";
+    exports.order_details = URL + "orders-details.php";
+    exports.wallet_data = URL + "wallet-data.php";
+    exports.wallet_recharge = URL + "wallet-recharge.php";
+    exports.add_address = URL + "add-address.php";
+    exports.address = URL + "address.php";
+    exports.return = URL + "return.php";
+    exports.search = URL + "search.php";
+    exports.delivery_charges = URL + "delivery-charges.php";
+    exports.delivery_slot = URL + "delivery-slot.php";
+    exports.order_update = URL + "order-update.php";
+    exports.address_delete = URL + "address-delete.php";
